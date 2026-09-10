@@ -42,7 +42,8 @@ export function foodSubtitle(food: Food, _language: Language) {
 }
 
 export function priceLabel(thousands: number | string, language: Language, approximate = false) {
-  const value = Number(thousands) * 1000;
-  const formatted = language === 'en' ? `₫${new Intl.NumberFormat('en-US').format(value)}` : `${new Intl.NumberFormat('vi-VN').format(value)}đ`;
-  return `${approximate ? '~' : ''}${formatted}`;
+  // const value = Number(thousands) * 1000;
+  // const formatted = language === 'en' ? `₫${new Intl.NumberFormat('en-US').format(value)}` : `${new Intl.NumberFormat('vi-VN').format(value)}đ`;
+  // return `${approximate ? '~' : ''}${formatted}`;
+  return '';
 }
