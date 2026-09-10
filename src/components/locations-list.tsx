@@ -5,7 +5,7 @@ import {vikingsBrand,vikingsCities,vikingsLocations,mapsUrl} from '@/lib/vikings
 export function LocationsList({language}:{language:Language}){
  const t=copy[language];
  return <section className="locations-panel" aria-label={vikingsBrand}>
-  <div className="locations-heading"><strong className="locations-title"><img src="/logo.svg" width={28} height={28} alt="" aria-hidden="true"/>{vikingsBrand}</strong><span className="locations-description">{t.locationsDescription.replace('{count}',String(vikingsLocations.length))}</span></div>
+  <div className="locations-heading"><strong className="locations-title"><a href="https://vikings.vn" target="_blank" rel="noreferrer" aria-label={`${vikingsBrand} · vikings.vn`}><img src="/logo.svg" width={28} height={28} alt="" aria-hidden="true"/></a>{vikingsBrand}</strong><span className="locations-description">{t.locationsDescription.replace('{count}',String(vikingsLocations.length))}</span></div>
   <div className="locations-body">
    {vikingsCities.map(city=><div key={city} className="locations-city"><h3>{city}</h3><ul>
     {vikingsLocations.filter(location=>location.city===city).map(location=><li key={location.id} className="location-row">

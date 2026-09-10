@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "brand": "Vikings Gaming",
+  "brand": "Net Vikings",
   "source": "https://www.vikings.vn/cyber",
   "fetched": "2026-09-10",
   "note": "Branch list from the official Vikings cyber page. Offices excluded.",
@@ -8,7 +8,7 @@
     {
       "id": "net-vikings-thao-dien",
       "cyberNo": "20",
-      "name": "Vikings Net Thảo Điền",
+      "name": "Net Vikings Thảo Điền",
       "address": "Số 10 Đường số 66, Phường An Khánh, TP.HCM",
       "city": "TP. Hồ Chí Minh",
       "phone": "034.790.2247",
@@ -19,7 +19,7 @@
     {
       "id": "net-thong-nhat",
       "cyberNo": "19",
-      "name": "Vikings Net Thống Nhất",
+      "name": "Net Vikings Thống Nhất",
       "address": "355 Thống Nhất, Phường Thông Tây Hội, TP. Hồ Chí Minh",
       "city": "TP. Hồ Chí Minh",
       "phone": "035.537.2247",
@@ -30,7 +30,7 @@
     {
       "id": "net-tran-nao",
       "cyberNo": "17",
-      "name": "Vikings Net Trần Não",
+      "name": "Net Vikings Trần Não",
       "address": "67 Trần Não, P. An Khánh, TP. Hồ Chí Minh",
       "city": "TP. Hồ Chí Minh",
       "phone": "038.664.2247",
@@ -41,7 +41,7 @@
     {
       "id": "nguyen-thi-thap",
       "cyberNo": "15",
-      "name": "Vikings Nguyễn Thị Thập",
+      "name": "Net Vikings Nguyễn Thị Thập",
       "address": "300 Nguyễn Thị Thập, Phường Tân Hưng, TP. Hồ Chí Minh",
       "city": "TP. Hồ Chí Minh",
       "phone": "086.712.2247",
@@ -52,7 +52,7 @@
     {
       "id": "le-quang-dinh",
       "cyberNo": "14",
-      "name": "Vikings Lê Quang Định",
+      "name": "Net Vikings Lê Quang Định",
       "address": "Tầng 1, 2, 259 Lê Quang Định, Phường Gia Định, TP. Hồ Chí Minh",
       "city": "TP. Hồ Chí Minh",
       "phone": "097.982.2247",
@@ -63,7 +63,7 @@
     {
       "id": "net-ha-dong",
       "cyberNo": "18",
-      "name": "Vikings Net Hà Đông",
+      "name": "Net Vikings Hà Đông",
       "address": "102 Trần Phú, Phường Hà Đông, TP. Hà Nội",
       "city": "Hà Nội",
       "phone": "038.879.2247",
@@ -74,7 +74,7 @@
     {
       "id": "bach-dang",
       "cyberNo": "12",
-      "name": "Vikings Bạch Đằng",
+      "name": "Net Vikings Bạch Đằng",
       "address": "64 Bạch Đằng, Phường Hồng Hà, TP. Hà Nội",
       "city": "Hà Nội",
       "phone": "090.224.2247",
@@ -85,7 +85,7 @@
     {
       "id": "cau-giay",
       "cyberNo": "11",
-      "name": "Vikings Cầu Giấy",
+      "name": "Net Vikings Cầu Giấy",
       "address": "Số 20, ngõ 165 Cầu Giấy, Phường Cầu Giấy, TP. Hà Nội",
       "city": "Hà Nội",
       "phone": "038.792.2247",
@@ -96,7 +96,7 @@
     {
       "id": "hoang-hoa-tham",
       "cyberNo": "6",
-      "name": "Vikings Hoàng Hoa Thám",
+      "name": "Net Vikings Hoàng Hoa Thám",
       "address": "Tầng 5, 6, 7, 713 Hoàng Hoa Thám, Phường Ngọc Hà, TP. Hà Nội",
       "city": "Hà Nội",
       "phone": "079.400.2247",

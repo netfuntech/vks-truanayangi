@@ -9,7 +9,10 @@
     "preview": "vite preview --host 127.0.0.1",
     "test": "node --test tests/cookies.test.mjs tests/case-mechanics.test.mjs",
     "typecheck": "tsc --noEmit",
-    "start": "vite --host 127.0.0.1"
+    "start": "vite --host 127.0.0.1",
+    "deploy": "pnpm build && wrangler deploy",
+    "deploy:preview": "pnpm build && wrangler versions upload",
+    "cf:dev": "pnpm build && wrangler dev"
   },
   "dependencies": {
     "@base-ui/react": "1.8.0",
@@ -30,7 +33,8 @@
     "esbuild": "0.28.2",
     "tailwindcss": "4.3.3",
     "typescript": "7.0.2",
-    "vite": "8.2.2"
+    "vite": "8.2.2",
+    "wrangler": "4.130.0"
   },
   "packageManager": "pnpm@12.3.4",
   "engines": {

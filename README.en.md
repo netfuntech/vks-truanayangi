@@ -31,6 +31,20 @@ pnpm preview    # Preview at http://127.0.0.1:4173
 
 The servers bind to `127.0.0.1` only. Once dependencies are installed, the app loads its assets locally; external links open only when you click them.
 
+## Deploy to Cloudflare
+
+The build is a static site, deployed with Wrangler to Cloudflare Workers (static assets). Config lives in `wrangler.jsonc`; security and cache headers in `public/_headers`.
+
+```sh
+npx wrangler login          # One-time Cloudflare login
+pnpm deploy                 # Build and publish to production
+pnpm deploy:preview         # Build and upload a preview version
+pnpm cf:dev                 # Serve the build through Wrangler locally
+npx wrangler deploy --dry-run   # Validate config, no login needed
+```
+
+Change the Worker name in `wrangler.jsonc` when deploying to your own account.
+
 ## Your data
 
 Preferences, meal lists, and spin counts are saved automatically in cookies in your current browser. Clearing cookies resets this data; it does not sync across devices. The displayed spin count belongs to this browser only.

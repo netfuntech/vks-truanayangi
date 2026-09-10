@@ -31,6 +31,20 @@ pnpm preview    # Xem bản build tại http://127.0.0.1:4173
 
 Máy chủ chỉ lắng nghe trên `127.0.0.1`. Sau khi cài dependencies, ứng dụng tải tài nguyên từ máy; các liên kết bên ngoài chỉ mở khi bạn bấm vào.
 
+## Triển khai lên Cloudflare
+
+Bản build là trang tĩnh, triển khai bằng Wrangler lên Cloudflare Workers (static assets). Cấu hình nằm trong `wrangler.jsonc`; header bảo mật và cache trong `public/_headers`.
+
+```sh
+npx wrangler login          # Đăng nhập Cloudflare một lần
+pnpm deploy                 # Build rồi đưa lên production
+pnpm deploy:preview         # Build rồi tải lên một version xem trước
+pnpm cf:dev                 # Chạy bản build qua Wrangler tại máy
+npx wrangler deploy --dry-run   # Kiểm tra cấu hình, không cần đăng nhập
+```
+
+Đổi tên Worker trong `wrangler.jsonc` nếu bạn triển khai lên tài khoản riêng.
+
 ## Dữ liệu của bạn
 
 Sở thích, danh sách món và lượt quay tự lưu bằng cookie trong trình duyệt hiện tại. Xóa cookie sẽ đặt lại dữ liệu; dữ liệu không đồng bộ giữa các thiết bị. Lượt quay hiển thị là của riêng trình duyệt này.
