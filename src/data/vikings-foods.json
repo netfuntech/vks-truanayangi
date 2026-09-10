@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "source": "https://www.vikings.vn/food-beverage",
+  "fetched": "2026-09-10",
+  "minPrice": 30000,
+  "note": "Local webp copies are 480px cover crops of sourceUrl.",
+  "foods": [
+    {
+      "id": 458,
+      "name": "SỮA CHUA VIỆT QUẤT",
+      "category": "Tráng Miệng",
+      "price": 35000,
+      "src": "/vikings/458.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/458/logo/uUOGCggb90G_c6XfylUH3g.png"
+    },
+    {
+      "id": 459,
+      "name": "SỮA CHUA XOÀI",
+      "category": "Tráng Miệng",
+      "price": 35000,
+      "src": "/vikings/459.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/459/logo/GTbVF2Gl7U6fsEdACrosPw.png"
+    },
+    {
+      "id": 1488,
+      "name": "BÁNH BAO THỊT HEO TRỨNG MUỐI",
+      "category": "Bánh Bao",
+      "price": 35000,
+      "src": "/vikings/1488.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1488/logo/DkhgwBrGB02WAQx-Y6HwDA.png"
+    },
+    {
+      "id": 428,
+      "name": "XÔI PATE TRỨNG",
+      "category": "Xôi",
+      "price": 35000,
+      "src": "/vikings/428.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/428/logo/KDH0gbT0HEqypB088bEzmg.png"
+    },
+    {
+      "id": 386,
+      "name": "BÁNH MÌ BÒ SỐT VANG",
+      "category": "Bánh Mì",
+      "price": 40000,
+      "src": "/vikings/386.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/386/logo/FGvPSvncekuB3q1_iV_Vsg.png"
+    },
+    {
+      "id": 439,
+      "name": "BÁNH MÌ SANDWICH VIKINGS",
+      "category": "Bánh Mì",
+      "price": 40000,
+      "src": "/vikings/439.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/439/highlight/xSYGh9LQxkm6Ts_6O-BrzA.jpg"
+    },
+    {
+      "id": 1276,
+      "name": "Burger Bò Phô Mai",
+      "category": "Bánh Mì",
+      "price": 38000,
+      "src": "/vikings/1276.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1276/logo/sFSscm8VyEuKcEMd5iC31w.png"
+    },
+    {
+      "id": 1625,
+      "name": "Burger nhân tôm",
+      "category": "Bánh Mì",
+      "price": 35000,
+      "src": "/vikings/1625.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1625/logo/aRJletO3EkOhgeh20QRwBQ.png"
+    },
+    {
+      "id": 1467,
+      "name": "HOTPOT MÌ VIÊN",
+      "category": "Mì - Bún",
+      "price": 45000,
+      "src": "/vikings/1467.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1467/logo/2iazdLuvM02lOzmDpcC7FQ.png"
+    },
+    {
+      "id": 1695,
+      "name": "LẨU TỰ SÔI CÁ HỒI TOMYUM",
+      "category": "Mì - Bún",
+      "price": 59000,
+      "src": "/vikings/1695.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1695/logo/pq6BDQdkPkKKVXsbIO0Zag.png"
+    },
+    {
+      "id": 435,
+      "name": "MÌ BÒ MỸ KIỂU THÁI",
+      "category": "Mì - Bún",
+      "price": 45000,
+      "src": "/vikings/435.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/435/highlight/cSVLTzyR4kysfzRfMTWvnA.png"
+    },
+    {
+      "id": 1791,
+      "name": "MÌ THẬP CẨM",
+      "category": "Mì - Bún",
+      "price": 35000,
+      "src": "/vikings/1791.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1791/highlight/7AWT8rnhFEm1qMJw-QQJjg.png"
+    },
+    {
+      "id": 1245,
+      "name": "MÌ TƯƠNG ĐEN",
+      "category": "Mì - Bún",
+      "price": 55000,
+      "src": "/vikings/1245.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1245/highlight/hT7TQwVy206ryk9uKIN02A.jpg"
+    },
+    {
+      "id": 1696,
+      "name": "MÌ UDON TRỘN XỐT CÀ RI",
+      "category": "Mì - Bún",
+      "price": 39000,
+      "src": "/vikings/1696.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1696/highlight/IIW05fLlPUKPCRdnXja5CQ.jpg"
+    },
+    {
+      "id": 1697,
+      "name": "MÌ UDON TRỘN XỐT PHÔ MAI CAY",
+      "category": "Mì - Bún",
+      "price": 39000,
+      "src": "/vikings/1697.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1697/highlight/E1KEmiwfAUuThuzXAe8DkQ.jpg"
+    },
+    {
+      "id": 393,
+      "name": "MÌ XÀO BÒ",
+      "category": "Mì - Bún",
+      "price": 45000,
+      "src": "/vikings/393.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/393/logo/rGD9A3295EqRLxFMz6sF5w.png"
+    },
+    {
+      "id": 394,
+      "name": "MÌ XÀO GÀ",
+      "category": "Mì - Bún",
+      "price": 40000,
+      "src": "/vikings/394.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/394/logo/HtlOMP4wu0WafinjwqZG3Q.png"
+    },
+    {
+      "id": 437,
+      "name": "CƠM BÒ SỐT TIÊU ĐEN",
+      "category": "Cơm Bò",
+      "price": 50000,
+      "src": "/vikings/437.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/437/highlight/3vumD3PJdkeYoRLEL1r8Jg.png"
+    },
+    {
+      "id": 423,
+      "name": "CƠM BÒ SỐT VANG",
+      "category": "Cơm Bò",
+      "price": 50000,
+      "src": "/vikings/423.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/423/logo/FDCv1E3Lek2vi41q5tvC8w.png"
+    },
+    {
+      "id": 421,
+      "name": "CƠM BÒ XÀO HÀNH NẤM",
+      "category": "Cơm Bò",
+      "price": 50000,
+      "src": "/vikings/421.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/421/logo/f-hgIX99aUuy_tsK8UQE4g.png"
+    },
+    {
+      "id": 1799,
+      "name": "CƠM TRỘN HÀN QUỐC",
+      "category": "Cơm Bò",
+      "price": 50000,
+      "src": "/vikings/1799.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1799/highlight/UY4HTYGuC0GMncLCUY_EHw.png"
+    },
+    {
+      "id": 1786,
+      "name": "Cơm gà cà ri Nhật Vikings",
+      "category": "Cơm Gà",
+      "price": 50000,
+      "src": "/vikings/1786.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1786/highlight/FLuK8TQkOkGb78ZIY_vlNg.png"
+    },
+    {
+      "id": 1800,
+      "name": "CƠM GÀ XÀO HÀNH NẤM",
+      "category": "Cơm Gà",
+      "price": 45000,
+      "src": "/vikings/1800.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1800/highlight/r0PT76Md1US0U1uNLDKMbQ.png"
+    },
+    {
+      "id": 1790,
+      "name": "Cơm gà xào húng quế kiểu Thái",
+      "category": "Cơm Gà",
+      "price": 45000,
+      "src": "/vikings/1790.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1790/highlight/vQ4OOk_cNkmpfx4RdjyD4Q.png"
+    },
+    {
+      "id": 1788,
+      "name": "Cơm gà xốt mật ong Hàn Quốc",
+      "category": "Cơm Gà",
+      "price": 50000,
+      "src": "/vikings/1788.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1788/highlight/Y1yVr9sAWEiF-9oaYtiFEA.png"
+    },
+    {
+      "id": 424,
+      "name": "CƠM ĐÙI GÀ QUAY",
+      "category": "Cơm Gà",
+      "price": 48000,
+      "src": "/vikings/424.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/424/logo/94nvaisk4kKevCilxUTI5Q.png"
+    },
+    {
+      "id": 425,
+      "name": "CƠM ĐÙI GÀ XÀO NẤM",
+      "category": "Cơm Gà",
+      "price": 45000,
+      "src": "/vikings/425.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/425/logo/O6TjSKH-dEaHFe4IghUpSQ.png"
+    },
+    {
+      "id": 413,
+      "name": "CƠM CHIÊN DƯA BÒ",
+      "category": "Cơm Chiên",
+      "price": 48000,
+      "src": "/vikings/413.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/413/highlight/DJAqQJ_X0UqlIk8KygqPPw.png"
+    },
+    {
+      "id": 414,
+      "name": "CƠM CHIÊN KIM CHI HÀN QUỐC",
+      "category": "Cơm Chiên",
+      "price": 40000,
+      "src": "/vikings/414.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/414/logo/bgtjncmj_EmVphMJdBlrFA.png"
+    },
+    {
+      "id": 415,
+      "name": "CƠM CHIÊN THẬP CẨM",
+      "category": "Cơm Chiên",
+      "price": 40000,
+      "src": "/vikings/415.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/415/logo/NZkLjoRfg0qG6GOg8eLmcg.png"
+    },
+    {
+      "id": 431,
+      "name": "CƠM CHIÊN ĐÙI GÀ QUAY",
+      "category": "Cơm Chiên",
+      "price": 48000,
+      "src": "/vikings/431.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/431/highlight/vGDBhI_F70WW6sEqaS4dXw.jpg"
+    },
+    {
+      "id": 1802,
+      "name": "CƠM THỊT ÁP CHẢO",
+      "category": "Cơm Thịt Heo",
+      "price": 50000,
+      "src": "/vikings/1802.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1802/highlight/PGAOZUvlnUKO8drZPg-kgw.png"
+    },
+    {
+      "id": 420,
+      "name": "CƠM THỊT KHO TRỨNG",
+      "category": "Cơm Thịt Heo",
+      "price": 48000,
+      "src": "/vikings/420.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/420/logo/sWyO39oQlU23q_M3waqUtA.png"
+    },
+    {
+      "id": 1212,
+      "name": "CƠM THỊT RANG VIKINGS",
+      "category": "Cơm Thịt Heo",
+      "price": 45000,
+      "src": "/vikings/1212.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1212/highlight/-VC0LM3BA0y4z7KmqK26Ww.jpg"
+    },
+    {
+      "id": 433,
+      "name": "CƠM THỊT SỐT CHUA NGỌT",
+      "category": "Cơm Thịt Heo",
+      "price": 45000,
+      "src": "/vikings/433.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/433/highlight/xBlCAqoRMEqjk7XP5Ept1w.jpg"
+    },
+    {
+      "id": 1214,
+      "name": "CƠM THỊT TẨM BỘT CHIÊN BƠ",
+      "category": "Cơm Thịt Heo",
+      "price": 48000,
+      "src": "/vikings/1214.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1214/highlight/nINmu-j5aku5Pjyesnqo0w.jpg"
+    },
+    {
+      "id": 1246,
+      "name": "BÁNH GẠO CAY",
+      "category": "Soup - Snack",
+      "price": 38000,
+      "src": "/vikings/1246.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/1246/highlight/auhC5wSrqk-cmB4eUSr37A.jpg"
+    },
+    {
+      "id": 402,
+      "name": "KHOAI LANG KÉN",
+      "category": "Soup - Snack",
+      "price": 35000,
+      "src": "/vikings/402.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/402/logo/e4axvl1pDEOqlQ0b9wlv8g.png"
+    },
+    {
+      "id": 403,
+      "name": "NEM CHUA RÁN",
+      "category": "Soup - Snack",
+      "price": 35000,
+      "src": "/vikings/403.webp",
+      "sourceUrl": "https://s3.vikings.com.vn/vk-assets/media/403/logo/QcZ5b8qSZEypood-ZguyvA.png"
+    }
+  ]
+}
